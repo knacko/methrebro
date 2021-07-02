@@ -4,9 +4,11 @@
 
 <img align="right" width="35%" height="auto" src="vignettes/logo_Cerebro.png">
 
-# cerebroApp
+# methrebroApp
 
-R package upon which the [Cerebro](https://github.com/romanhaa/Cerebro) is built.
+This application is heavily under development alongside the [scMethrix](https://github.com/CompEpigen/scMethrix) package. Do not expect functionality or stability.
+
+Methylation-specifc version of the R package upon which the [Cerebro](https://github.com/romanhaa/Cerebro) is built.
 Contains helper function that prepare single-cell RNA-seq data stored in a Seurat object for visualization in Cerebro.
 Seurat v3 and `SCE`/`SingleCellExperiment` objects are supported.
 
